@@ -1,4 +1,3 @@
 # Nikhil-demo
-This is my first git repo
-<br>
-Author - Bollu Nikhil (demo)
+This is my first Power BI Dashboard
+
